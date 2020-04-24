@@ -751,6 +751,9 @@ ibm-watson==4.0.1
 # homeassistant.components.watson_iot
 ibmiotf==0.3.4
 
+# homeassistant.components.next_rocket_launch
+ics==0.7
+
 # homeassistant.components.iglo
 iglo==1.2.7
 
