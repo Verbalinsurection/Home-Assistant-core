@@ -2506,7 +2506,7 @@ python-mpd2==3.1.1
 python-mystrom==2.5.0
 
 # homeassistant.components.open_router
-python-open-router==0.3.2
+python-open-router==0.3.3
 
 # homeassistant.components.swiss_public_transport
 python-opendata-transport==0.5.0
@@ -3225,7 +3225,7 @@ zeroconf==0.148.0
 zeversolar==0.3.2
 
 # homeassistant.components.zha
-zha==0.0.78
+zha==0.0.79
 
 # homeassistant.components.zhong_hong
 zhong-hong-hvac==1.0.13
